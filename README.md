@@ -25,7 +25,6 @@ Você pode instalar e executar o **SiteGuard** facilmente no seu sistema.
 ```bash
 git clone https://github.com/Facelless/SiteGuard.git
 cd SiteGuard
-pip install -r requirements.txt
 ```
 
 ##
